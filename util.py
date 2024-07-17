@@ -7,7 +7,7 @@ from matplotlib.colors import LinearSegmentedColormap
 def plot_heatmap(df):
 
     # Create a custom colormap
-    colors = ["red", "white", "green"]
+    colors = ["red", "gray", "green"]
     n_bins = [1, 1, 1]  # Discretize the interpolation into bins
     cmap_name = 'custom_heatmap'
 
