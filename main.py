@@ -7,7 +7,7 @@ st.set_page_config(page_title=page_title, page_icon=page_icon, layout='centered'
 st.title(f'📊 {page_title}')
 st.write(':blue[***Empower Your Trades with Seasonal Insights***]')
 st.write(" Seasonal Insights is a powerful tool for traders, providing a comprehensive analysis of monthly seasonal "
-         "trends for various trading pairs over the last 25 years. By identifying whether each month was bullish, "
+         "trends for various trading pairs over the last 20+ years. By identifying whether each month was bullish, "
          "bearish, or neutral, this app helps you understand the historical biases and make informed trading "
          "decisions. Visualize past performance and discover the monthly trends to gain an edge in the market.")
 
