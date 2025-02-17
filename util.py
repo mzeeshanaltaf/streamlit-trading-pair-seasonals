@@ -36,7 +36,7 @@ def display_footer():
         }
         </style>
         <div class="footer">
-            Made with ❤️ by <a href="mailto:zeeshan.altaf@92labs.ai">Zeeshan</a>.
+            Made with ❤️ by <a href="mailto:zeeshan.altaf@gmail.com">Zeeshan</a>.
         </div> 
     """
     st.markdown(footer, unsafe_allow_html=True)
